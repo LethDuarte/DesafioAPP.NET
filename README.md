@@ -1,2 +1,3 @@
 # DesafioAPP.NET
- Desafio de projeto desenvolvido no Bootcamp 'Geração TECH' oferecido pela DIO em parceria com a Unimed - BH.
+
+ Desafio de projeto realizado durante o 'Bootcamp Geração Tech Unimed-BH Fullstack', oferecido pela plataforma Digital Innovation One (DIO) e patrocinado pela Unimed-BH, em Julho/2022.
